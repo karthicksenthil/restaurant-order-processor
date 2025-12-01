@@ -1,21 +1,55 @@
-# restaurant-order-processor
-Code challenge for redcat technologies
+
+# Restaurant Order Processor
+
+This is a coding challenge for redcat technologies
 
 To run the code checkout the master branch
 
-To run the backend code
-    - cd backend
-    - npm install
-    - npm run dev
+
+## Run backend Locally
+
+Clone the project
 
 
-To run the frontend code
-    - cd frontend
-    - npm install
-    - npm run dev
+Go to the backend project directory
 
-The website can be accessed on port 5173
+```bash
+  cd backend
+```
 
-http://localhost:5173
+Install dependencies
 
+```bash
+  npm install
+```
 
+Start the server
+
+```bash
+  npm run dev
+```
+
+## Run frontend Locally
+
+```bash
+  cd frontend
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
+## Screenshots
+
+![App Screenshot](https://github.com/karthicksenthil/restaurant-order-processor/blob/main/screenshots/Cart%20Summary.png)
+
+![App Screenshot](https://github.com/karthicksenthil/restaurant-order-processor/blob/main/screenshots/Order%20Confirmation.png)
+
+![App Screenshot](https://github.com/karthicksenthil/restaurant-order-processor/blob/main/screenshots/Order%20History.png)
